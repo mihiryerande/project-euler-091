@@ -1,3 +1,4 @@
+# Project Euler - Problem 91 - Right Triangles with Integer Coordinates
 The points P <img src="https://render.githubusercontent.com/render/math?math=(x_1, y_1)"> and Q <img src="https://render.githubusercontent.com/render/math?math=(x_2, y_2)"> are plotted at integer co-ordinates and are joined to the origin, O <img src="https://render.githubusercontent.com/render/math?math=(0, 0)">, to form ΔOPQ.
 
 <img src=https://projecteuler.net/project/images/p091_1.png>
